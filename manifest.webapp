@@ -4,7 +4,7 @@
   "launch_path": "/index.html",
   "description": "Personal website for Apurv Mishra (mishra.apurv99@gmail.com)",
   "icons": {
-    "196": "/images/touch/android-chrome-192x192.png"
+    "192": "/images/touch/android-chrome-192x192.png"
   },
   "developer": {
     "name": "Apurv Mishra",
