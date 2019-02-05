@@ -1,6 +1,6 @@
 # Personal Website
 
-##### Link to website: [apurvmishra99.github.io](https://www.apurvmishra99.github.io)
+##### Link to website: [apurvmishra.xyz](https://www.apurvmishra.xyz)
 
 Major inspiration from [Harjyot Singh's website](https://www.harjyotsingh.com)
 
